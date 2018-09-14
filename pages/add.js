@@ -3,11 +3,15 @@ const add=`
         <div class="row">
           <form>
             <div class="row">
-              <div class="input-field col s8">
+              <div class="input-field col s12">
                 <input type="text" id="nome">
                 <label for="nome">Nome</label>
               </div>
+              
 
+            </div>
+            <div class="row">
+                <h3 id="resultado"></h3>
             </div>
           </form>
         </div>
